@@ -4,7 +4,7 @@
 
 - [Introduccion Teorica .NET](https://github.com/estebanmatias92/Introduccion-teorica-dotnet)
 
-## Lenguaje: CSharp
+## Lenguaje: "C#"
 
 - [[Cheatsheet] The Ultimate Cheat Sheet for C#](https://blog.christian-schou.dk/csharp-cheat-sheet/)
 - [[Cheatsheet] C# learncs.org](https://www.learncs.org/)
