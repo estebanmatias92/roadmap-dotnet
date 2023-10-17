@@ -1,5 +1,8 @@
 # roadmap-dotnet
 
+- [[Roadmap] How to Learn .NET](https://careerkarma.com/blog/how-to-learn-dotnet/)
+- [[Roadmap] Step by step plan For Beginners For Learning .NET](https://thecodeblogger.com/2021/07/30/step-by-step-plan-for-beginners-for-learning-net/)
+
 ## .NET Introduccion
 
 - [Introduccion Teorica .NET](https://github.com/estebanmatias92/Introduccion-teorica-dotnet) 👈
